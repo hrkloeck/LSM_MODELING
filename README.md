@@ -19,3 +19,8 @@ Or to use ft and the component list in CASA to generate the visibilities.
 [simulations in CASA](https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)
 
 or use kittens
+[Some useful script from Ian to sort lsm model](https://github.com/ratt-ru/tigger/issues/40)
+
+[use tigger](https://github.com/ratt-ru/tigger)
+
+[tigger lsm](https://github.com/ratt-ru/tigger-lsm)
